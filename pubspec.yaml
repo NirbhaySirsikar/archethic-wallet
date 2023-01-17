@@ -152,6 +152,7 @@ dependencies:
   json_annotation: ^4.7.0
 
   # Ledger dart library for Flutter. This library aims to provide a easy way to communicate with Ledger devices.
+  json_rpc_2: ^3.0.2
   ledger_dart_lib: ^0.1.2
 
   # Loading animation or loading spiner or loader. It's used to show loading animation when the app is in loading state or something is processing for uncertain time.
@@ -229,6 +230,7 @@ dependencies:
   validators: ^3.0.0
 
   # This plugin allows Flutter desktop apps to resizing and repositioning the window.
+  web_socket_channel: ^2.2.0
   window_manager: ^0.2.8
 
   # Yubico dart library for Dart/Flutter
