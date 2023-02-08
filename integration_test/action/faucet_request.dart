@@ -1,7 +1,6 @@
 import 'package:patrol/patrol.dart';
 import 'package:requests/requests.dart';
 
-import '../config/config.dart';
 
 Future<void> faucetRequestAction(PatrolTester $) async {
   // Request the form
