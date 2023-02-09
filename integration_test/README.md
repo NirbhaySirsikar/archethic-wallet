@@ -26,7 +26,7 @@ To run a single specification :
 
 > patrol drive --spec integration_test/<spec_file>_test.dart
 
-To run Patrol on a spectfic device :
+To run Patrol on a specific device :
 
 > patrol drive -D <device_name>
 
